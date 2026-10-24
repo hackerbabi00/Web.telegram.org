@@ -6,7 +6,7 @@ app = Flask(__name__)
 @app.route('/', defaults={'path': ''})
 @app.route('/<path:path>')
 def catch_all(path):
-    return redirect('https://iplogger.com/2P88L5', code=301)
+    return redirect('https://urlto.me/2ts2r', code=301)
 
 if __name__ == '__main__':
     # Temel nokta: host 0.0.0.0 olmalı ve port PORT ortam değişkeninden okunmalı
