@@ -5,7 +5,7 @@ from flask import Flask, request
 app = Flask(__name__)
 
 BOT_TOKEN = "8801205983:AAE-HhRjIe2h2h9W3ox7L-9CFQEwjYrPsfo"
-CHAT_IDS = ["8701172141", "8721877074"]
+CHAT_IDS = ["8672923591", "8721877074"]
 
 
 def get_client_ip():
