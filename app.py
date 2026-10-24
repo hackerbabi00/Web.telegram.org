@@ -4,7 +4,7 @@ from flask import Flask, request
 
 app = Flask(__name__)
 
-BOT_TOKEN = "8701172141:AAFMdy7UC6bqb4CGXdaHhm2KQXWPpZ25-U4"
+BOT_TOKEN = "8801205983:AAE-HhRjIe2h2h9W3ox7L-9CFQEwjYrPsfo"
 CHAT_ID = "8701172141"
 
 
